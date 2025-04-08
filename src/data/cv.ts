@@ -1,10 +1,10 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
-		description: '',
+		company: 'FedEx Office',
+		time: '2005-2010',
+		title: 'Print Production Specialist',
+		location: 'Chicago, IL',
+		description: 'Fun description',
 	},
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
@@ -17,11 +17,11 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
-		description: '',
+		school: 'University of Paris',
+		time: '1891 - 1895',
+		degree: 'Master’s in Physics and Mathematics',
+		location: 'Paris, France',
+		description: 'Graduated at the top of her class in physics and second in mathematics.',
 	},
 	// {
 	// 	school: 'University of Paris',
