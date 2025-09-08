@@ -39,6 +39,9 @@ export default {
             "dim",
             "nord",
             "sunset",
+            "abyss",
+            "caramellatte",
+            "silk",
         ],
     },
     // darkMode: ['selector', '[data-theme="synthwave"]']
